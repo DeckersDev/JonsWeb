@@ -18,7 +18,7 @@ resultset = stmt.executeQuery("SELECT * FROM employees");
 <title>Insert title here</title>
 </head>
 <body>
-<center>TEST</center>
+<center>TEST WEBPAGE</center>
 <TABLE BORDER="1">
 <TR>
     <TH>ID</TH>
